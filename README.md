@@ -39,4 +39,5 @@ print("hola mundo")
 ***
 ---
 
-[x] Tarea Realizada
+- [x] Tarea Realizada
+- [ ] Tarea pendiente
